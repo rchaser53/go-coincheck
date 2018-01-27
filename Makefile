@@ -15,3 +15,6 @@ run:
 
 goRun:
 	$(OUTPUT_PATH)
+
+nyan:
+	@echo 234
