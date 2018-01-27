@@ -16,5 +16,5 @@ run:
 goRun:
 	$(OUTPUT_PATH)
 
-nyan:
-	@echo 234
+serve:
+	@fresh -c .fresh.conf
